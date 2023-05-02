@@ -1,5 +1,5 @@
 # EE3501-Labs
-Embedded Systems Class code
+Embedded Systems Class code (Coded in C)
 
 Code was writen on https://os.mbed.com and they have killed the online compiler. But you can also find this code on the MBED libraries search by looking for Goran.
 Microcontroller used for code base, NUCLEO-F401RE.
